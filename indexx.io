@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Mika Belajar HTML</h1>
+<h2>Belajar HTML</h2>
+<h3>Belajar HTML</h3>
+<h4>Belajar HTML</h4>
+<h5>Belajar HTML</h5>
+<h6>Belajar HTML</h6>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+<h1 style="background-color:Pink;">Mika Belajar</h1>
+<p style="background-color:LightPink;">Lorem ipsum...</p>
